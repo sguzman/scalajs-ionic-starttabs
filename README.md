@@ -1,7 +1,7 @@
-#Scala/Ionic Starter Template
-
-##scalajs-ionic-starttabs
+Scala/Ionic Starter Template
 ==================
+scalajs-ionic-starttabs
+
 
 An experimental HTML5 mobile application that puts together the following libraries :
 - **scala-js** to compile scala to javascript (see http://www.scala-js.org/)
